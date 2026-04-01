@@ -1,44 +1,73 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=28&pause=1000&color=42C3B4&background=FF000000&center=true&vCenter=true&repeat=false&width=500&lines=hey.+welcome+to+my+github.)](https://git.io/typing-svg)
 
-<div align="left">
+</div>
 
+---
 
-## 🌍 About Me
-I'm a third-year Software Development Engineering student from El Salvador.
-I'm passionate about servers, Linux, and building efficient systems.
+## about me
 
-I enjoy working with different Linux distributions, exploring how systems work at a low level, and continuously improving my skills in backend development and infrastructure.
+software development student from El Salvador.  
+i spend most of my time on servers, databases, and backend systems.  
+currently running debian. sometimes arch, when i feel like troubleshooting at 2am.
 
-## 💻 Tech Interests
-💻 Interested in: Backend, Servers, Linux, Networking
-🐧 Linux enthusiast
-⚙️ Always learning new technologies and tools
-🚀 Focused on growing as a software developer
+- backend-heavy, occasionally touch frontend when needed  
+- comfortable in linux environments — not just installing it  
+- i like understanding how things work before using them
 
-## 💡 Why Software Development?
-I chose software development because I enjoy solving problems and building things that people can use in real life. I like understanding how systems work, especially in areas like servers and Linux, and turning ideas into functional solutions.
+---
 
-For me, being a developer is not just about coding, but about creating efficient systems, learning constantly, and improving how technology is used.
+## stack
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=huiishan99&theme=gruvbox&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+**languages**
 
-<p align="center"> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/AndroidStudio-Dark.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/CS.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Apple-Dark.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Arch-Dark.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bash-Dark.svg" alt="unreal" width="40" height="40"/> 
-  </a> 
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-239120?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**frameworks & tools**
+
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-21759B?style=flat&logo=wordpress&logoColor=white)
+
+**databases**
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sql_server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle_db-F80000?style=flat&logo=oracle&logoColor=white)
+
+**infrastructure**
+
+![Debian](https://img.shields.io/badge/debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Arch](https://img.shields.io/badge/arch_linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-D22128?style=flat&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)
+
+---
+
+## github stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=42C3B4&icon_color=42C3B4)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=42C3B4)
+
+</div>
+
+---
+
+<div align="center">
+<sub>if it runs on linux, i'll figure it out.</sub>
 </div>
