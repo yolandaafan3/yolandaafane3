@@ -76,9 +76,9 @@ currently on debian for work, arch when i want to suffer productively.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=42C3B4&icon_color=42C3B4&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yolandaafan3&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=42C3B4&icon_color=42C3B4&text_color=c9d1d9)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=42C3B4&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yolandaafan3&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=42C3B4&text_color=c9d1d9)
 
 </div>
 
