@@ -21,6 +21,33 @@ currently on debian for work, arch when i want to suffer productively.
 
 ---
 
+---
+
+## featured project
+
+### 🚀 githubtask
+
+a fullstack application to manage github repositories with kanban boards, notes and multi-repo tracking.
+
+- github oauth authentication  
+- kanban per repository  
+- notes system with folders and tags  
+- markdown editor  
+- multi-repo selection  
+- deployed in production  
+
+**live:**
+https://githubtask-yaff.vercel.app  
+
+**stack:**
+- react + vite  
+- node.js + express  
+- supabase (postgresql)  
+- vercel + render  
+
+---
+
+
 ## languages
 
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
