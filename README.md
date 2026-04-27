@@ -15,7 +15,9 @@ currently on debian for work, arch when i want to suffer productively.
 - backend-first mindset — i care about what happens behind the request  
 - comfortable across the full backend stack: from raw C to Laravel to Spring Boot  
 - i don't just use linux, i actually understand what's running under the hood  
-- always reading docs, man pages, and occasionally kernel source at odd hours
+- always reading docs, man pages, and occasionally kernel source at odd hours  
+- currently developing an electronic invoicing system Quanty Management  
+- building small applications focused on development and learning for children at CCAR (Club Creativo, Aprendizaje y Refuerzo)
 
 ---
 
